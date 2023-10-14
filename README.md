@@ -1,4 +1,4 @@
-# yolov8_gold
+# Yolov8_gold
 
 Hy, Peace be upon you, 
 
