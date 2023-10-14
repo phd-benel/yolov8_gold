@@ -10,17 +10,17 @@ Intelligent drone inspection of power lines using computer vision techniques is 
 
 ### Data
 
-Data used for the study can be found here : https://github.com/phd-benel/VPMBGI 
+Data used for this study can be found here : https://github.com/phd-benel/VPMBGI 
 
 ### Experiments
 
-Run this colab book to reproduce the results the results given by Yolov8_Gold: https://colab.research.google.com/drive/1tuk6NXmcILxMYUiBYCgUQGLd_rMjtCWk?usp=sharing
+Run this Colab notebook to replicate the results obtained through the training of YOLOv8_Gold Model: https://colab.research.google.com/drive/1tuk6NXmcILxMYUiBYCgUQGLd_rMjtCWk?usp=sharing
 
 ### Results
 
 Some preshoots results : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
 
-Model weight : 
+Model weight pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
 
 ### Citation
 
@@ -33,3 +33,6 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 ### Acknowledgments
 
 We express our gratitude to Ultralytics YOLOv8 and the contributors of the objectdetection_script repository for their valuable contributions and resources, which greatly assisted in the development and execution of this research.
+
+### Contact 
+Please don't hesitate to report an issue on this GitHub repository if you require further information or assistance. I would be delighted to provide help and support.
