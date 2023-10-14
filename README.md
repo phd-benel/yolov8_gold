@@ -25,9 +25,9 @@ Run this Colab notebook to replicate the results obtained through the training o
 
 ### Results
 
-Yolov8_gold_m results : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
+Yolov8_gold_m's training results : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
 
-Yolov8_gold_m  model weight pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
+Yolov8_gold_m model weight pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
 
 ### Citation
 
