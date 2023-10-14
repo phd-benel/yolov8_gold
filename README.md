@@ -12,15 +12,22 @@ Intelligent drone inspection of power lines using computer vision techniques is 
 
 Data used for this study can be found here : https://github.com/phd-benel/VPMBGI 
 
+### Model Architecture
+
+Refer to this file for the model architecture : https://github.com/phd-benel/yolov8_improved_exp/blob/main/ultralytics/cfg/models/v8/yolov8_gold.yaml
+
+![image](https://github.com/phd-benel/yolov8_gold/assets/82882383/28daae33-28c2-4113-abfc-cdf9e1a3a4a0)
+Fig. 1. The overall simplified structure of the proposed improved model Yolov8-Gold. The orange blocks represent the new modules introduced in the Yolov8 architecture.
+
 ### Experiments
 
 Run this Colab notebook to replicate the results obtained through the training of YOLOv8_Gold Model: https://colab.research.google.com/drive/1tuk6NXmcILxMYUiBYCgUQGLd_rMjtCWk?usp=sharing
 
 ### Results
 
-Some preshoots results : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
+Yolov8_gold_m results : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
 
-Model weight pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
+Yolov8_gold_m  model weight pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
 
 ### Citation
 
