@@ -2,7 +2,7 @@
 
 Hy, Peace be upon you, 
 
-This is the source code for the paper, "Detecting Broken Glass Insulators for Automated UAV Power Line Inspection Based on an Improved YOLOv8 Model" submitted in AI2SD Global Submit Symposium Serie On Energy, Enviromnent and Agriculture 15-17 NOVEMBER 2023 - MARRAKECH, MOROCCO
+This is the source code for the paper, "Detecting Broken Glass Insulators for Automated UAV Power Line Inspection Based on an Improved YOLOv8 Model" submitted in AI2SD Global Submit Symposium Serie On Energy, Enviromnent and Agriculture , 15-17 November 2023 - Marrakech, Morocco
 
 ### Paper Abstract
 
