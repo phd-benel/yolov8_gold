@@ -19,6 +19,8 @@ Refer to this file for the model architecture : https://github.com/phd-benel/yol
 ![image](https://github.com/phd-benel/yolov8_gold/assets/82882383/28daae33-28c2-4113-abfc-cdf9e1a3a4a0)
 Fig. 1. The overall simplified structure of the proposed improved model Yolov8-Gold. The orange blocks represent the new modules introduced in the Yolov8 architecture.
 
+For a clearer explanation of the architecture, please refer to this: https://github.com/phd-benel/yolov8_gold/issues/1
+
 ### Experiments
 
 Run this Colab notebook to replicate the results obtained through the training of YOLOv8_Gold Model: https://colab.research.google.com/drive/1tuk6NXmcILxMYUiBYCgUQGLd_rMjtCWk?usp=sharing
