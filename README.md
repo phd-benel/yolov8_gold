@@ -39,7 +39,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 ### Acknowledgments
 
-We express our gratitude to Ultralytics YOLOv8 and the contributors of the objectdetection_script repository for their valuable contributions and resources, which greatly assisted in the development and execution of this research.
+We express our gratitude to Ultralytics YOLOv8 , the contributors of the objectdetection_script repository and the authors of "Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism" paper for their valuable contributions and resources, which greatly assisted in the development and execution of this research.
 
 ### Contact 
 Please don't hesitate to report an issue on this GitHub repository if you require further information or assistance. I would be delighted to provide help and support.
