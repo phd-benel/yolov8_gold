@@ -33,7 +33,7 @@ Model weight of Yolov8_gold_m pretrained on VPMBGI : https://github.com/phd-bene
 
 ### Citation
 
-Too add
+Benelmostafa, BE., Aitelhaj, R., Elmoufid, M., Medromi, H. (2024). Detecting Broken Glass Insulators for Automated UAV Power Line Inspection Based on an Improved YOLOv8 Model. In: Ezziyyani, M., Kacprzyk, J., Balas, V.E. (eds) International Conference on Advanced Intelligent Systems for Sustainable Development (AI2SD'2023). AI2SD 2023. Lecture Notes in Networks and Systems, vol 930. Springer, Cham. https://doi.org/10.1007/978-3-031-54318-0_27
 
 ### License
 
